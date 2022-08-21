@@ -3,7 +3,7 @@
 
 int main()
 {
-/*
+
    printf("WHAT I'VE LEARNT SO FAR\n");
     printf("\n");
    printf("Using char function\n");
@@ -45,9 +45,6 @@ int main()
     printf("My grade is %c", grade);
 
 
-*/
-
-/*
     char name[20];
     printf("Enter your name: ");
     fgets(name, 20, stdin);
@@ -100,9 +97,7 @@ int main()
     printf("Roses are %s\n", colour);
     printf("%s are blue\n", noun);
     printf("I love %s\n", celebrity);
-*/
 
-/*
     printf("code below doesn't work as intended");
 
     char colour[20];
@@ -118,10 +113,7 @@ int main()
     printf("Roses are %s\n", colour);
     printf("%s are blue\n", noun);
     printf("I love %s\n", celebrity);
-
-
-*/
-/*
+   
 
     printf("solution\n");
 
@@ -151,8 +143,5 @@ int main()
     int lottonumbers[] = {2, 3, 5, 6, 7, 8};
     lottonumbers[2] = 5.6;
     printf("I have %d cars", lottonumbers[2]);
-
-*/
-    print_line(int n);
 
 }
